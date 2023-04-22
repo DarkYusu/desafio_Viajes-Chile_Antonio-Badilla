@@ -1,29 +1,47 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
 }
 
-.logo{
+.logo {
     width: 30px;
-   
+
 }
 
-header{
+header {
     margin-top: -100px;
 }
 
-#quienes-somos, #destacados, #contacto{
+#quienes-somos,
+#destacados,
+#contacto {
     background-color: black;
 }
 
-#quienes-somos hr{
-    margin-left:200px;
-    margin-right:200px;
+#quienes-somos hr {
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
-#quienes-somos i{
+#quienes-somos i {
     background-color: rgb(70, 165, 189);
     width: 100%;
 }
 
+#destacados hr {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.card {
+    background-color: rgb(70, 165, 189);
+
+}
+
+.card-img-top {
+    width: 100%;
+    max-width: 100%;
+    height: 75%;
+    max-height: 140px;
+}
