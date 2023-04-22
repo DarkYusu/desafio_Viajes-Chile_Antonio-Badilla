@@ -13,16 +13,17 @@ header{
     margin-top: -100px;
 }
 
-.quienes-somos{
+#quienes-somos, #destacados, #contacto{
     background-color: black;
 }
 
-.quienes-somos hr{
+#quienes-somos hr{
     margin-left:200px;
     margin-right:200px;
 }
 
-.quienes-somos i{
+#quienes-somos i{
     background-color: rgb(70, 165, 189);
     width: 100%;
 }
+
